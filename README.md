@@ -17,7 +17,7 @@ This repository is a collection of valuable resources compiled by the members of
 
 We encourage contributions from club members and the wider software development community. If you have resources, slides, code samples, or any educational material that you think would be beneficial, please consider contributing.
 
-To contribute, please refer to the [CONTRIBUTING](./CONTRIBUTING) file 
+To contribute, please refer to the [CONTRIBUTING](./CONTRIBUTING.md) file 
 
 ## Usage and Licensing
 
