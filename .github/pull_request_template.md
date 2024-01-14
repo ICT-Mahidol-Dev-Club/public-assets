@@ -1,5 +1,5 @@
 
-<!-- Resolve PA-0 "<dir>/ <branch_name>" -->
+<!-- Resolve PA-0 "Doc/ <branch_name>" -->
 <!-- Copy this header to title of pull request  -->
 
 
